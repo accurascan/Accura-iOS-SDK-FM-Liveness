@@ -52,7 +52,7 @@ NS_ASSUME_NONNULL_BEGIN
 -(void) setBlurPercentage:(int)blurPercentage;
 
 -(void) setGlarePercentage:(int) glaremin :(int) glareMax;
--(void) configure;
+//-(void) configure;
 
 @end
 
