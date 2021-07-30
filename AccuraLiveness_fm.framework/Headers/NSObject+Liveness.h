@@ -52,6 +52,8 @@ NS_ASSUME_NONNULL_BEGIN
 -(void) setBlurPercentage:(int)blurPercentage;
 
 -(void) setGlarePercentage:(int) glaremin :(int) glareMax;
+-(void)evaluateServerTrustWIthSSLPinning:(bool)isServerTrust;
+
 //-(void) configure;
 
 @end
