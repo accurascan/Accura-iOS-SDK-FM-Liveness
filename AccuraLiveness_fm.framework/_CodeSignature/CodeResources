@@ -118,7 +118,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		4lEeF0Ey5AnbfNn+/8kS+UlFLqY=
+		8mvIrCOjYsKT+b5wDAiFLw3A6YQ=
 		</data>
 		<key>LICENSE.txt</key>
 		<data>
@@ -126,15 +126,19 @@
 		</data>
 		<key>Liveness.storyboardc/Info.plist</key>
 		<data>
-		c6gnEXIXFVfD9Lr4D0mrXjRtRIk=
+		DVS865yldCzAScuYJJuVKPbVVo4=
 		</data>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<data>
-		zOmAxoYgeDPDEzF5T3fFUD2UG1M=
+		FzjDxVeC8jcJ+yMAGT3gS/9UysE=
 		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		QohFC3HD9DWoe/rDbyJBq6OY2RQ=
+		P9eBQs1GbzVHKIyZEIuY2yfe6q8=
+		</data>
+		<key>Liveness.storyboardc/UINavigationController-ZRm-sc-Ked.nib</key>
+		<data>
+		6W2+DnjPk1wDIqMV1CfJ3bMfXKg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -362,21 +366,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cfa0vBbrQFAxVxoXTL+BEK7Jmrkj79KGwSQH/TR4Evs=
+			gGpQ90L7HCMAQE3qPJFRHq+botYQJPtPpZOrUUX2TDA=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ecpElso/6D8TibiSLldSjOBT4RP86cU+Vb9xXG2GE+c=
+			vVskZxWdQn4XrCtN4bK4eEEIizYKaaT0s1rvD3JKEyA=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RVK6aj/CwWIaRWLbBzaEeeblwNpkwbD61AJ9E3A5Py8=
+			B7j027XciGHXk3wcv4TB2u+xijMirKcuEV/okb0tV/U=
+			</data>
+		</dict>
+		<key>Liveness.storyboardc/UINavigationController-ZRm-sc-Ked.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			w0mxfvzUOX+pCXBTcYvuaWdf+3Tb5R96Wodg9/+vbj0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
