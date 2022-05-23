@@ -6,59 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		TGpsGrYAL5hxg3tmINkBHi0KsdE=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
-		<data>
-		96Uw5p4tLIiDbN11Du0p0c5xqE8=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/BCLlefteyeclosed_200.emd</key>
-		<data>
-		KBTvwnLXsoe2PIlGUwZzMUOp5k8=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/BCLrighteyeclosed_200.emd</key>
-		<data>
-		fW6O7h6Je5DNmNrbOeCGmAixyLI=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
-		<data>
-		z4DBXIDYB/WHXV8xM4rFDQHpCy0=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
-		<data>
-		trY9XrpS4DxHzs3eHljZHIJNHrI=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/MFT_fssd_accgray.pb</key>
-		<data>
-		tq7fRawRQ359i/c0FEVvpQ6Oee0=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/MFT_fssd_fastgray.pb</key>
-		<data>
-		DP+qJf0czliL6znGLVx90ASNzCY=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/blazeface.tfl</key>
-		<data>
-		oseYQ/EQxo7JsNpdNgo4YVLh7a4=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/contours.tfl</key>
-		<data>
-		PaAh9+zFw3Is4fLMn5iQsLG5M34=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/fssd_100_8bit_gray_v1.tflite</key>
-		<data>
-		VCp0NyrYJWQnYbGaxVv0Vzy0IeA=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/fssd_100_8bit_v1.tflite</key>
-		<data>
-		AHaxev+fV4YGoIDboAUFlxfISmY=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/fssd_25_8bit_gray_v1.tflite</key>
-		<data>
-		Rd53RFFpKHZNvbiDaE2p4XxjbY0=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/fssd_25_8bit_v1.tflite</key>
-		<data>
-		RxtbTN3LjpFChp3tmniX3KD+dsE=
+		9/XC5gl4NNE08Lx8CAMq9BrobFU=
 		</data>
 		<key>Headers/AccuraLiveness_fm.h</key>
 		<data>
@@ -82,11 +30,11 @@
 		</data>
 		<key>Headers/LivenessData.h</key>
 		<data>
-		L5gCwHBKUEpSS27IBojV8pCtWIw=
+		DwzHldQvPMYK3IwTzwQEfsJ50Ww=
 		</data>
 		<key>Headers/LivenessVC.h</key>
 		<data>
-		2szGfzUvOwhJQO2wgEFksjBeLuc=
+		xF2cZkx3JcoBsjC/NUcINeGafEo=
 		</data>
 		<key>Headers/NSFaceRegion.h</key>
 		<data>
@@ -94,15 +42,15 @@
 		</data>
 		<key>Headers/NSObject+Facematch.h</key>
 		<data>
-		/XkfnBg1cJam5foZprHu3UDaqZo=
+		WyY384UTP1HSy5Hhtkqkb6Z0j40=
 		</data>
 		<key>Headers/NSObject+Liveness.h</key>
 		<data>
-		OZ1rrN7u/sRtF8G/qtUMXQVn/Do=
+		5ve9eZ5Xc0/nt2ngZScGImFMiBs=
 		</data>
 		<key>Headers/NSObject+PostResult.h</key>
 		<data>
-		VM5QSPyrbVnK+a3s952yUxVz7Mc=
+		TNM/5XmDtrJtipMk8zvDh5STr5Q=
 		</data>
 		<key>Headers/NSObject+userDefaults.h</key>
 		<data>
@@ -116,9 +64,13 @@
 		<data>
 		voxR252dlaNTUmdecDzHHeDKqSA=
 		</data>
+		<key>Headers/VideoCameraWrapperDelegate.h</key>
+		<data>
+		2DwPoPh4Rffupr+bRF0JZvs+acA=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		yHrELevS5RsHNL9QSw2as0SAj0U=
+		yX3UiAKCmJIMwMhiZE+NmSOKr5E=
 		</data>
 		<key>LICENSE.txt</key>
 		<data>
@@ -126,23 +78,47 @@
 		</data>
 		<key>Liveness.storyboardc/Info.plist</key>
 		<data>
-		c6gnEXIXFVfD9Lr4D0mrXjRtRIk=
+		ZczLTQMZq306KsAz4GJXSF+KvcU=
 		</data>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<data>
 		t5uDYqbIP376f0C0/FshdlcO4cc=
 		</data>
+		<key>Liveness.storyboardc/NavigationViewController.nib</key>
+		<data>
+		Jk7EzrscqCPMdBjA3ntoaJ0nhHY=
+		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		Vo/a2KnpjKBwlgTs5JmzwM1KE6g=
+		sq5Ryl74letSxyAdnxIHdZUMlKI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		nAesgzH4YL7OW9Dm27UOeSUIoDk=
 		</data>
+		<key>accura_liveness_face.gif</key>
+		<data>
+		x6YzFO5mq/nRXX7usL796xjJwEk=
+		</data>
+		<key>accura_liveness_verified.mp3</key>
+		<data>
+		Du259eB4iTTCHTu9RaPuEXnAbqQ=
+		</data>
+		<key>approved_sign.gif</key>
+		<data>
+		qP254C52OQQWaGVqhJw8W5iSG+U=
+		</data>
 		<key>fdata.xml</key>
 		<data>
 		8MEF54k9TRXjJg++ew/DmG4lAg8=
+		</data>
+		<key>haarcascade_frontalface_alt.xml</key>
+		<data>
+		EkapDR99LVIq6onpPtD6ijjZk6M=
+		</data>
+		<key>haarcascade_profileface.xml</key>
+		<data>
+		xJYaVUCjvnH9QaJBfCZIXGdaDpU=
 		</data>
 		<key>model1.dat</key>
 		<data>
@@ -159,98 +135,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			moD2g6oFq8B3xarn78uUKXebuvtmxFptlZWiNXv3VTg=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8A8lZEpijnOMFV9JPQcq8UPyU8v5nwi/SCnL5dT0NRw=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/BCLlefteyeclosed_200.emd</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0xIT5PJf+LIXgeeG/YnO3lkX75s/vlC99V1IOvE27e0=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/BCLrighteyeclosed_200.emd</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Y8oL2DjlGXdImtrbgKC+AWxaoLe2kPvDiaBkWqzP5P8=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			gew9YSUY+vz7g9x1VmRBWFlWnwPywWa624zxWr5nr1w=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			DtXIUoL5QNFKVyOmwK8F+cKr1Okww8TwvloHI203QRE=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/MFT_fssd_accgray.pb</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8K2wTXshtNmImTKmLw7/En7tsn0vhTQqkBRBU8oLgbE=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/MFT_fssd_fastgray.pb</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			CUNCXfGzUODFinvmaL4flC6sM4wZjhpPFoWco+Eif0U=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/blazeface.tfl</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			TyXMFC6WtfIbMjbSFmwuZikgaB8dI5QtJRDpjIr27Nw=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/contours.tfl</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			hBYLwMSnSVF+Yvk8ssaKuP9J3lcfcOttFgJUypoHicA=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/fssd_100_8bit_gray_v1.tflite</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ekzwnGrkp1gUTUK/NbmiapWYfjxYQdDcORCVaYKZ2as=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/fssd_100_8bit_v1.tflite</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			OvuTDu3I0dQENEgCgdO16M7EwwTlLTT9/IqVCDQLtxk=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/fssd_25_8bit_gray_v1.tflite</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IVEbvtJxoKkri5ORjg+I9u+70RWjbRVV8GHO4TH2qzw=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/fssd_25_8bit_v1.tflite</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			2pAlL0mzu5QuX4gBgKFFYfZpKW5/s+3s3quqi2u3gio=
+			XIA0sc6wMM7WHsNsr/G5MfiC5+6iZSnIIYE4njs75Ps=
 			</data>
 		</dict>
 		<key>Headers/AccuraLiveness_fm.h</key>
@@ -292,14 +177,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ALzPfWdPKZPmImhtg5WOqiHJW037J0XK+WSI7I6kQrM=
+			+mcdllrhEX1UGmHKpieI193hBBN51Lzfn7+qjm2HbI0=
 			</data>
 		</dict>
 		<key>Headers/LivenessVC.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bysEkgxvEq9URTFK4CSwtfBav/8vUEWfdzcvJqByqBI=
+			E2KRKITpH/5J7Lc9VsUrMiIUQI/PaIaDSwifsibQE2A=
 			</data>
 		</dict>
 		<key>Headers/NSFaceRegion.h</key>
@@ -313,21 +198,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			t179a7Snk9PoS0V3kH0HGrmRL58CatshUFFAYcWywKY=
+			+jBGMXChx53oRLPTJVo2gCUKP6Q4WaWn7VzeFCsK8q0=
 			</data>
 		</dict>
 		<key>Headers/NSObject+Liveness.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XTZ1OQ5BSgZ4HKIV/gFZp/6SDdUiE3K89nKFvUJzCiA=
+			R2kKw17rAYsyzmx4Lqlxk+8s7mafdTvJ9fJqi8qGKGI=
 			</data>
 		</dict>
 		<key>Headers/NSObject+PostResult.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SlnXgpN27THbyg9dkYhTLPzAoP8h14wFdGwZ1rOQSQ4=
+			eybaVV/21V5ek7yFulAf/jl7uu0IS2cvDRoLQTHbCXI=
 			</data>
 		</dict>
 		<key>Headers/NSObject+userDefaults.h</key>
@@ -351,6 +236,13 @@
 			4sv81fpC70ykR9Uz1H+bCedx90cmOzS18oCIWQf3Yu4=
 			</data>
 		</dict>
+		<key>Headers/VideoCameraWrapperDelegate.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			J6nVvj7nSR5qnu4Q/srjhAz2lUePJGneWxtEu3o2jV8=
+			</data>
+		</dict>
 		<key>LICENSE.txt</key>
 		<dict>
 			<key>hash2</key>
@@ -362,7 +254,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cfa0vBbrQFAxVxoXTL+BEK7Jmrkj79KGwSQH/TR4Evs=
+			U3Tem5h0OVi9a35w5vGFMxmXOdAq2JJ+rxMachoCvT4=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
@@ -372,11 +264,18 @@
 			EuX/Uc51yS3BV1EQ5zHWUA7PG0+6uwPiR0gCFKn9jJw=
 			</data>
 		</dict>
+		<key>Liveness.storyboardc/NavigationViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tMHeQF4j2AVbBOmYksVmACWFmXUhrQs1DjZQ3XL1WKY=
+			</data>
+		</dict>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			q+EqGl/KZz8pU9cQcsEWTQV6+mH5M1AK0EgGs2OVuqE=
+			O8hMnwisW8EUdvorBsctWa6aLquW3p4uyjCdqNYbADQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -386,11 +285,46 @@
 			Ohgk5QNphU6IL82jBAbPtX61/E2Tc8LqyuhLXRanZLA=
 			</data>
 		</dict>
+		<key>accura_liveness_face.gif</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5wwdXLdcHsGI3hnR4cS1RsnRb35Bdb3sNbrcEDDwJEw=
+			</data>
+		</dict>
+		<key>accura_liveness_verified.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			31hNE/igKb6d0Uey0oKnMQbX0IXSP4ZS8Y6tXUVAdkg=
+			</data>
+		</dict>
+		<key>approved_sign.gif</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dJbYCWKrKeDHtBqGU6VdENPdJNmdr8r6N/Mn3mnb/wE=
+			</data>
+		</dict>
 		<key>fdata.xml</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			geq6K3ZW3HJv7kWij+dwRzMMW/B+pElevO84cSwcajw=
+			</data>
+		</dict>
+		<key>haarcascade_frontalface_alt.xml</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YoHfE0Wcwhj/BH0Csq44WbEv8UqT/+iVL3sz+te5aXs=
+			</data>
+		</dict>
+		<key>haarcascade_profileface.xml</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			s5pKO+RVOdsUan/B0+dhopLBluuIQhGF5qYVswVeYS0=
 			</data>
 		</dict>
 		<key>model1.dat</key>

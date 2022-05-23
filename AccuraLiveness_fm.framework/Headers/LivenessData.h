@@ -8,11 +8,18 @@
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
+#import "VideoCameraWrapperDelegate.h"
 
+typedef NS_ENUM(int, ContentType)
+{
+    form_data = 0,
+    raw_data = 1
+};
 
 
 @protocol LivenessData <NSObject>
--(void) LivenessData:(NSString*)stLivenessValue livenessImage:(UIImage*)livenessImage status:(bool)status;
+-(void) LivenessData:(NSString*)stLivenessValue livenessImage:(UIImage*)livenessImage status:(bool)status imagePath:(NSString*)imagePath;
 -(void) livenessViewDisappear;
+-(void) didChangedLivenessState:(LivenessType)livenessState;
 @end
 
