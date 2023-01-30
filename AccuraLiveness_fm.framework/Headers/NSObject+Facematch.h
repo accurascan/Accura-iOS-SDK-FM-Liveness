@@ -50,9 +50,6 @@ NS_ASSUME_NONNULL_BEGIN
 -(void) setBlurPercentage:(int)blurPercentage;
 
 -(void) setGlarePercentage:(int) glaremin :(int) glareMax;
--(void)isShowLogoImage:(bool)isShowLogo;
--(void)setLogoImage:(NSString*)LogoImageName;
--(void)setFeedBackProcessingMessage:(NSString *)feedBackProcessingMessage;
 
 @end
 
