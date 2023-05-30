@@ -40,6 +40,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 -(void) setLivenessURL:(NSString*)livenessURL;
 
+-(void) setApiKey:(NSString*)setApiKey;
+
 -(void) setFeedbackMultipleFaceMessage:(NSString*)feedBackMultipleFaceMessage;
 
 -(void) setFeedBackFaceSteadymessage:(NSString*)feedBackFaceSteadymessage;
