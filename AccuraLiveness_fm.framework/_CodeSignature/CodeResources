@@ -22,7 +22,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
 		<data>
-		LoPJXulEbGwRuBOfz4ZC4sytN00=
+		eHlqKfcKncv+Ia1HjF69wbYJ1y4=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
 		<data>
@@ -35,6 +35,26 @@
 		<key>GoogleMVFaceDetectorResources.bundle/MFT_fssd_fastgray.pb</key>
 		<data>
 		DP+qJf0czliL6znGLVx90ASNzCY=
+		</data>
+		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeDirectory</key>
+		<data>
+		MNeCcLJp32dcNNVZjpMdIx+Oqe0=
+		</data>
+		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements</key>
+		<data>
+		uP9FKhr3Pf0Eqhs6G+1Q5LF/2I0=
+		</data>
+		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements-1</key>
+		<data>
+		r/Jeyt3IJudxga1GY6A31UWMKec=
+		</data>
+		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeResources</key>
+		<data>
+		MhB3UG8viKa+dwO2iK7bMpceck0=
+		</data>
+		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeSignature</key>
+		<data>
+		LVHGAc1nCdHqfR/kWbVUUolxH5A=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/blazeface.tfl</key>
 		<data>
@@ -187,7 +207,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NKmi3HYS1xd2/zYdNhOC68iY+DXwL+Cz/2bcHFlDj0o=
+			a6d6yTbQtmIpxX/FejLWgjAaE1ERnazkbTt3/MPcbrc=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
@@ -209,6 +229,41 @@
 			<key>hash2</key>
 			<data>
 			CUNCXfGzUODFinvmaL4flC6sM4wZjhpPFoWco+Eif0U=
+			</data>
+		</dict>
+		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeDirectory</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DzGKixq4GdsbsO9f1jwqiRZlZj/E1XAiGDMyrO1RSfM=
+			</data>
+		</dict>
+		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/xS88ITxLX7HDpw4BwkYP+l7q92dHjOclahT2yeWisA=
+			</data>
+		</dict>
+		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements-1</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XqT7lhX2gLpGTie/2FQ+V61U210YzTs+/LaU7e1VIRA=
+			</data>
+		</dict>
+		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2gju7+eYFs+Uf0FIDqLbFLpDnmzKCESbbVyK2OSSbAk=
+			</data>
+		</dict>
+		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uP7jCkKhiKCBZWpx1pWEGW7sZeJ5AULPZGn1CJzVFdw=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/blazeface.tfl</key>
