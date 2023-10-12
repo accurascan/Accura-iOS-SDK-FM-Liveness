@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "AccuraLiveness_FM"
   spec.version      = "4.2.7"
-  spec.summary      = "Accura Liveness is used for your customer verification and authentication."
+  spec.summary      = "Accura Liveness is used for your  customer verification and authentication."
   spec.description  = "Accura Authentication is used for your customer verification and authentication.Unlock the True Identity of Your Users with 3D Selfie Technology"
   spec.homepage     = "https://github.com/accurascan/iOS-KYC"
   spec.license      = "MIT"
