@@ -22,6 +22,31 @@
 
 
 
+typedef enum LivenessType_{
+    DEFAULT = 0,
+    LOOK_LEFT = 1,
+    LOOK_RIGHT = 2,
+    ORAL_VERIFICATION = 3,
+    APPROVED = 4
+}LivenessType;
+
+typedef enum FaceResult_{
+    SMILE = 2,
+    SUCCESS = 1,
+    FAILED = 0,
+    MULTIPLE_FACE = -1,
+    SMALL_FACE = -2,
+    BIG_FACE = -3,
+    CLOSE_EYES = -4,
+    TILT_ANGLE = -5,
+    ROTATING_ANGLE = -6,
+    CENTER_FACE = -7,
+    DARK_FACE = -8,
+    BLUR_FACE = -9,
+    GLARE_FACE = -10
+}FaceResult;
+
+
 
 
 @interface AccuraLivenessCameraWrapper : NSObject
@@ -43,9 +68,10 @@
 
 -(void)setLivenessGlarePercentage:(int)glareMin glareMax:(int)glareMax;
 -(void)setLivenessBlurPercentage:(int)blur;
+-(NSString *)livenessCheck:(UIImage *)image11;
 -(void)openFrontCamera:(int )isFrontSide;
 - (void)accuraLivenessSDK;
-
+- (void)livenessBuffer:(float)livenessBuffer1;
 
 
 @end
