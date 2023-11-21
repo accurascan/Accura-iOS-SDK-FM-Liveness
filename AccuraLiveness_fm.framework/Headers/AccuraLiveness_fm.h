@@ -22,7 +22,6 @@ FOUNDATION_EXPORT const unsigned char AccuraLiveness_fmVersionString[];
 #import "AccuraLiveness_fm/NSFaceRegion.h"
 #import "AccuraLiveness_fm/FaceView.h"
 #import "AccuraLiveness_fm/ImageHelper.h"
-#import <AccuraLiveness_fm/AccuraCameraWrapper.h>
 
 #endif
 

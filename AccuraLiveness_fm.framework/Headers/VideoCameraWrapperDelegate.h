@@ -9,11 +9,17 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
+typedef NS_ENUM(int, LivenessType)
+{
+    DEFAULT = 0, LOOK_LEFT = 1, LOOK_RIGHT = 2, ORAL_VERIFICATION = 3, APPROVED = 4
+};
 
 @protocol LivenessVideoCameraWrapperDelegate <NSObject>
 @optional
--(void)livenessData:(UIImage*)livenessImage andshowImage:(UIImage*)showImage;
+-(void)livenessData:(UIImage*)livenessImage andshowImage:(UIImage*)showImage imagePath:(NSString*)imagePath;
 -(void)processedImage:(UIImage*)image;
--(void)titleMessage:(NSString *)message;
+-(void)didChangedLivenessType:(LivenessType)faceDirection;
+-(void)getRandomNumber:(NSString*)randomNumber;
+-(void)toastMessage:(NSString*)toast;
 
 @end

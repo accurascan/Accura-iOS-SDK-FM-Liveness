@@ -6,15 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		bhLqenZfM0NtXLjyjcYSdpJ6vGo=
-		</data>
-		<key>Headers/AccuraCameraWrapper.h</key>
-		<data>
-		McFYg6ei5v6VnoI0irRRAiBE+b0=
+		ZBCbAD7eRnRpRMPrlcO+JVT4e9g=
 		</data>
 		<key>Headers/AccuraLiveness_fm.h</key>
 		<data>
-		TEVcBW9Rx1ZySR8t8J06YrOOTQY=
+		k28fhxS2WRSATQg0rdTtVpdabJY=
 		</data>
 		<key>Headers/EngineWrapper.h</key>
 		<data>
@@ -34,11 +30,11 @@
 		</data>
 		<key>Headers/LivenessData.h</key>
 		<data>
-		L5gCwHBKUEpSS27IBojV8pCtWIw=
+		DwzHldQvPMYK3IwTzwQEfsJ50Ww=
 		</data>
 		<key>Headers/LivenessVC.h</key>
 		<data>
-		2szGfzUvOwhJQO2wgEFksjBeLuc=
+		LmTjUp0QjT5a/jTG7IYOB5rAVp4=
 		</data>
 		<key>Headers/NSFaceRegion.h</key>
 		<data>
@@ -46,15 +42,15 @@
 		</data>
 		<key>Headers/NSObject+Facematch.h</key>
 		<data>
-		/XkfnBg1cJam5foZprHu3UDaqZo=
+		kEFjtCYMtwr7uC54F0IvTGRJkWA=
 		</data>
 		<key>Headers/NSObject+Liveness.h</key>
 		<data>
-		m81fiuLqK4m46TU4mCqRpoRbhLU=
+		YY1xeZPM5qge9DBMG3qo00snLJY=
 		</data>
 		<key>Headers/NSObject+PostResult.h</key>
 		<data>
-		5x1gZ6dJUIb8tKat+q9CeRvRUIU=
+		JnQJqYwBifswk2v7cE0D+L9IeCY=
 		</data>
 		<key>Headers/NSObject+userDefaults.h</key>
 		<data>
@@ -70,11 +66,11 @@
 		</data>
 		<key>Headers/VideoCameraWrapperDelegate.h</key>
 		<data>
-		iIOwaOPOyBcBYoOn8D1h7E2KKMs=
+		CJNbbnSUzutXX9hqII1bD0EOrRQ=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		zzIzgaKDXLmRZmYNEs1d/0wcH98=
+		NCsX2CFqpSmJVyXCYsLFDNfAArs=
 		</data>
 		<key>LICENSE.txt</key>
 		<data>
@@ -82,19 +78,35 @@
 		</data>
 		<key>Liveness.storyboardc/Info.plist</key>
 		<data>
-		c6gnEXIXFVfD9Lr4D0mrXjRtRIk=
+		ZczLTQMZq306KsAz4GJXSF+KvcU=
 		</data>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<data>
 		yaS+5wQSD8YRF9gHUSPbMpaUO2o=
 		</data>
+		<key>Liveness.storyboardc/NavigationViewController.nib</key>
+		<data>
+		w+1WHZSYubj39YHAKGgoisUD2us=
+		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		BTgrZoltwcRnT/HwyeMy0R/7eb0=
+		Qadk5x7jXf5FhFrVCQKHS1Uhu0U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		nAesgzH4YL7OW9Dm27UOeSUIoDk=
+		</data>
+		<key>accura_liveness_face.gif</key>
+		<data>
+		x6YzFO5mq/nRXX7usL796xjJwEk=
+		</data>
+		<key>accura_liveness_verified.mp3</key>
+		<data>
+		Du259eB4iTTCHTu9RaPuEXnAbqQ=
+		</data>
+		<key>approved_sign.gif</key>
+		<data>
+		qP254C52OQQWaGVqhJw8W5iSG+U=
 		</data>
 		<key>fdata.xml</key>
 		<data>
@@ -103,6 +115,10 @@
 		<key>haarcascade_frontalface_alt.xml</key>
 		<data>
 		EkapDR99LVIq6onpPtD6ijjZk6M=
+		</data>
+		<key>haarcascade_profileface.xml</key>
+		<data>
+		xJYaVUCjvnH9QaJBfCZIXGdaDpU=
 		</data>
 		<key>model1.dat</key>
 		<data>
@@ -119,21 +135,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kOVeGHd+WwjzqJ8Y43g3O5mULEdbGIRE4wvLoS7HpRo=
-			</data>
-		</dict>
-		<key>Headers/AccuraCameraWrapper.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ELjXAa6jP4Iw99w7Q4fvzz9X4UIcaszYdBXIDBPUnZY=
+			GU3aXHeXI5iH8RmMpxea38u7HnfpYDuPJ/xRM5KTzi0=
 			</data>
 		</dict>
 		<key>Headers/AccuraLiveness_fm.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			d65x729dVhM/1N+BZ2TrM3GTw82diaHqwsFSo4sl0oM=
+			SmYRsXrplXjGZGeHGV5NzBIbfr3zabONYGZme+RG6GE=
 			</data>
 		</dict>
 		<key>Headers/EngineWrapper.h</key>
@@ -168,14 +177,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ALzPfWdPKZPmImhtg5WOqiHJW037J0XK+WSI7I6kQrM=
+			+mcdllrhEX1UGmHKpieI193hBBN51Lzfn7+qjm2HbI0=
 			</data>
 		</dict>
 		<key>Headers/LivenessVC.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bysEkgxvEq9URTFK4CSwtfBav/8vUEWfdzcvJqByqBI=
+			8Eadczgxb877JJhfWy2s3hhTfFO1JVIB2pWBSx8Soss=
 			</data>
 		</dict>
 		<key>Headers/NSFaceRegion.h</key>
@@ -189,21 +198,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			t179a7Snk9PoS0V3kH0HGrmRL58CatshUFFAYcWywKY=
+			A5pgxW5+140hX29RwR3DIdhUTjm8fKLSIpwQFRlLxbo=
 			</data>
 		</dict>
 		<key>Headers/NSObject+Liveness.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VNBiwOgLuY4Jnr2yjZiCs4SIMzqJGGe2ac0ykg9SKYY=
+			J9FwKUnKg87sm+fbyTYu9YWEUtIy+/WyaSmfC8E0YCw=
 			</data>
 		</dict>
 		<key>Headers/NSObject+PostResult.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9P0EGifbMygFAM/Feq1nCWFlj6415VoqhQsMFYOd8cI=
+			dBv7kLTo08nR4LbQpTR4Tk4CCH7Zey/lTeGzztb0+fQ=
 			</data>
 		</dict>
 		<key>Headers/NSObject+userDefaults.h</key>
@@ -231,7 +240,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vg/BIlTguLwg53ojqFPS9fq7qja70DV8QymniGAkolc=
+			JE8yeRK9c7ssPOzybUJIX0yNLANLhorAYV3FQ4NqZbA=
 			</data>
 		</dict>
 		<key>LICENSE.txt</key>
@@ -245,7 +254,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cfa0vBbrQFAxVxoXTL+BEK7Jmrkj79KGwSQH/TR4Evs=
+			U3Tem5h0OVi9a35w5vGFMxmXOdAq2JJ+rxMachoCvT4=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
@@ -255,11 +264,18 @@
 			hnPy79rxY+kn24xdMY6Zr2cZUXgBq/uaoRyJEULCFNQ=
 			</data>
 		</dict>
+		<key>Liveness.storyboardc/NavigationViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BizgfLIFucF1YBxVOHdhOAUFzbOf+UAVw3BCTrd8SNw=
+			</data>
+		</dict>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			w47Qgq+kIeL7yKrv7vgcGZ5wMeKjFyf3m1xW5HS7s60=
+			ywBt5++J8m4I2MAeT3+vOBZRIlX9zuv026ZiHolAjeU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -267,6 +283,27 @@
 			<key>hash2</key>
 			<data>
 			Ohgk5QNphU6IL82jBAbPtX61/E2Tc8LqyuhLXRanZLA=
+			</data>
+		</dict>
+		<key>accura_liveness_face.gif</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5wwdXLdcHsGI3hnR4cS1RsnRb35Bdb3sNbrcEDDwJEw=
+			</data>
+		</dict>
+		<key>accura_liveness_verified.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			31hNE/igKb6d0Uey0oKnMQbX0IXSP4ZS8Y6tXUVAdkg=
+			</data>
+		</dict>
+		<key>approved_sign.gif</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dJbYCWKrKeDHtBqGU6VdENPdJNmdr8r6N/Mn3mnb/wE=
 			</data>
 		</dict>
 		<key>fdata.xml</key>
@@ -281,6 +318,13 @@
 			<key>hash2</key>
 			<data>
 			YoHfE0Wcwhj/BH0Csq44WbEv8UqT/+iVL3sz+te5aXs=
+			</data>
+		</dict>
+		<key>haarcascade_profileface.xml</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			s5pKO+RVOdsUan/B0+dhopLBluuIQhGF5qYVswVeYS0=
 			</data>
 		</dict>
 		<key>model1.dat</key>
