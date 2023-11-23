@@ -55,7 +55,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 -(void) setGlarePercentage:(int) glaremin :(int) glareMax;
 -(void)evaluateServerTrustWIthSSLPinning:(bool)isServerTrust;
-
+-(void) setDefaultText:(NSString*)defaultText;
+-(void) hideLogo:(bool)isLogoHidden;
 //-(void) configure;
 
 @end
