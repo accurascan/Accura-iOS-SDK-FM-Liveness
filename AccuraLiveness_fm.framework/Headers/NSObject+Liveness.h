@@ -57,6 +57,8 @@ NS_ASSUME_NONNULL_BEGIN
 -(void)evaluateServerTrustWIthSSLPinning:(bool)isServerTrust;
 -(void) setDefaultText:(NSString*)defaultText;
 -(void) hideLogo:(bool)isLogoHidden;
+-(void)hideAlert:(bool)isAlertHidden;
+- (void)setAlertText:(NSString *)alertText;
 //-(void) configure;
 
 @end

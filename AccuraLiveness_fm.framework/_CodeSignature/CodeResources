@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		bhLqenZfM0NtXLjyjcYSdpJ6vGo=
+		NwvSXDM/IA8dJhmexVr4YiTXJTI=
 		</data>
 		<key>Headers/AccuraCameraWrapper.h</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Headers/NSObject+Liveness.h</key>
 		<data>
-		t1wtQ3kKngabYuUZYopGZhW08DM=
+		cwN7JPaV+dOQXZMjuO0DN/xpb+4=
 		</data>
 		<key>Headers/NSObject+PostResult.h</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		zzIzgaKDXLmRZmYNEs1d/0wcH98=
+		ShCiD2QMN9U9Og3FaElWTvoLlZ0=
 		</data>
 		<key>LICENSE.txt</key>
 		<data>
@@ -90,11 +90,15 @@
 		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		r7P0OxjDgSQV29ldVwcaMYcojX8=
+		83ZgSXi6FBDlJtMYlX8lxUmNI9Y=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		nAesgzH4YL7OW9Dm27UOeSUIoDk=
+		SnqVGeppeEkc0wLyUBigdIpexoM=
+		</data>
+		<key>accuraLogo.png</key>
+		<data>
+		uiicnHFcqodGpk5n0a430HyCe+0=
 		</data>
 		<key>fdata.xml</key>
 		<data>
@@ -119,7 +123,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kOVeGHd+WwjzqJ8Y43g3O5mULEdbGIRE4wvLoS7HpRo=
+			PVck5jnWbUBll6oOUZvEdKUT/lpYfSTvJZlmZo5v+4M=
 			</data>
 		</dict>
 		<key>Headers/AccuraCameraWrapper.h</key>
@@ -196,7 +200,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GAz+T47zNAnqC0SmIsBUmC0rlsNSVG7CXRulqbrIu18=
+			MEPXqOhds/vGZFb4QlLd7/A0YifzVNnfLd7vC4v/G4c=
 			</data>
 		</dict>
 		<key>Headers/NSObject+PostResult.h</key>
@@ -259,14 +263,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tmJUY55YnWyTWrXc9PID3Gqf0QCrm+UtjfozUMDXSmQ=
+			pWM2PYuuaLY3OxMUhu0B7Uy2CM6sVYThCTLpTSTMBQI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ohgk5QNphU6IL82jBAbPtX61/E2Tc8LqyuhLXRanZLA=
+			G3TeA+P5cgT2KcOZmo3d9JzPilLQbKXycugsIi6j3OU=
+			</data>
+		</dict>
+		<key>accuraLogo.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			K2jt2e8Lo01rOgCIagtezwPFSNbOb7/45VQAqpevujg=
 			</data>
 		</dict>
 		<key>fdata.xml</key>
