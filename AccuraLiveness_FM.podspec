@@ -16,7 +16,6 @@ Pod::Spec.new do |spec|
   spec.swift_version = "5.0"
   spec.exclude_files = "accuraocrSDK/*/.{png}"
   spec.dependency 'AFNetworking','4.0.0'
-  spec.dependency 'ProgressHUD','2.70'
   spec.pod_target_xcconfig = {
     'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
   }
