@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		bhLqenZfM0NtXLjyjcYSdpJ6vGo=
+		Ru+KG523MTTGM1+WkD6RKcWy2Dk=
 		</data>
 		<key>Headers/AccuraCameraWrapper.h</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Headers/LivenessVC.h</key>
 		<data>
-		2szGfzUvOwhJQO2wgEFksjBeLuc=
+		2CecIXmdCGjgmMLpVIN1Sc96ZjM=
 		</data>
 		<key>Headers/NSFaceRegion.h</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Headers/NSObject+Facematch.h</key>
 		<data>
-		/XkfnBg1cJam5foZprHu3UDaqZo=
+		/BlHDJoraz7cdniUGq55h0Rdsjw=
 		</data>
 		<key>Headers/NSObject+Liveness.h</key>
 		<data>
-		m81fiuLqK4m46TU4mCqRpoRbhLU=
+		cwN7JPaV+dOQXZMjuO0DN/xpb+4=
 		</data>
 		<key>Headers/NSObject+PostResult.h</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		zzIzgaKDXLmRZmYNEs1d/0wcH98=
+		76gcAYSZzTgGKP9MvW77/8fbrl8=
 		</data>
 		<key>LICENSE.txt</key>
 		<data>
@@ -90,11 +90,15 @@
 		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		BTgrZoltwcRnT/HwyeMy0R/7eb0=
+		ji60c3plJrD+ZZtx8ZUDIlK0TyY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		nAesgzH4YL7OW9Dm27UOeSUIoDk=
+		SnqVGeppeEkc0wLyUBigdIpexoM=
+		</data>
+		<key>accuraLogo.png</key>
+		<data>
+		uiicnHFcqodGpk5n0a430HyCe+0=
 		</data>
 		<key>fdata.xml</key>
 		<data>
@@ -119,7 +123,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kOVeGHd+WwjzqJ8Y43g3O5mULEdbGIRE4wvLoS7HpRo=
+			HB6sMSK0pg5IC+Spp31AhvIabOjBLjSqTvrvYSLxAFc=
 			</data>
 		</dict>
 		<key>Headers/AccuraCameraWrapper.h</key>
@@ -175,7 +179,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bysEkgxvEq9URTFK4CSwtfBav/8vUEWfdzcvJqByqBI=
+			Z3tiDhIC5hTM7PvmXhO/sz0CRt7vAh9BtS+QevwON/s=
 			</data>
 		</dict>
 		<key>Headers/NSFaceRegion.h</key>
@@ -189,14 +193,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			t179a7Snk9PoS0V3kH0HGrmRL58CatshUFFAYcWywKY=
+			ALDGOUhg8o5yfEKEPkLhRd9VvAJ2tBaa/v6F8LR2rhE=
 			</data>
 		</dict>
 		<key>Headers/NSObject+Liveness.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VNBiwOgLuY4Jnr2yjZiCs4SIMzqJGGe2ac0ykg9SKYY=
+			MEPXqOhds/vGZFb4QlLd7/A0YifzVNnfLd7vC4v/G4c=
 			</data>
 		</dict>
 		<key>Headers/NSObject+PostResult.h</key>
@@ -259,14 +263,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w47Qgq+kIeL7yKrv7vgcGZ5wMeKjFyf3m1xW5HS7s60=
+			nzeOv/Vwuz5mtusltff41IFMlpTaj9rE2MFIeh4MTV4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ohgk5QNphU6IL82jBAbPtX61/E2Tc8LqyuhLXRanZLA=
+			G3TeA+P5cgT2KcOZmo3d9JzPilLQbKXycugsIi6j3OU=
+			</data>
+		</dict>
+		<key>accuraLogo.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			K2jt2e8Lo01rOgCIagtezwPFSNbOb7/45VQAqpevujg=
 			</data>
 		</dict>
 		<key>fdata.xml</key>

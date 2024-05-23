@@ -37,6 +37,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, strong) id<LivenessData> delegate;
 @property (nonatomic, strong) id<FacematchData> delegateFacematch;
 @property (nonatomic, assign) bool ischeckLiveness;
+@property (weak, nonatomic) IBOutlet UILabel *defaultLabel;
 
 
 
