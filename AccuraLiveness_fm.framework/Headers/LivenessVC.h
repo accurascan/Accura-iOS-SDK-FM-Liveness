@@ -38,8 +38,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (weak, nonatomic) IBOutlet UILabel *labelFaceSteadyMSG;
 @property (weak, nonatomic) IBOutlet UIButton *buttonMic;
 @property (weak, nonatomic) IBOutlet UILabel *labelRandomNumber;
-@property (weak, nonatomic) IBOutlet UILabel *defaultText;
-@property (weak, nonatomic) IBOutlet UILabel *audiotext;
+@property (weak, nonatomic) IBOutlet UIImageView *arrowImage;
 
 @property (nonatomic, strong) id<LivenessData> delegate;
 @property (nonatomic, strong) id<FacematchData> delegateFacematch;

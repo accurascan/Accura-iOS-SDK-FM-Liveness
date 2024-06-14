@@ -85,10 +85,6 @@ NS_ASSUME_NONNULL_BEGIN
 -(void)setCodeTextColor:(NSString*)codeTextColor;
 -(void)setContentType:(ContentType)contentType;
 -(void)GIFImageNameForVerifiedAnimation:(NSString*)VerifiedAnimation;
--(void) setApiKey:(NSString*)setApiKey;
--(void) setDefaultText:(NSString*)defaultText;
--(void) setAudioText:(NSString*)setAudioText;
--(void) toastMessage:(NSString*)toastMessage;
 
 @end
 

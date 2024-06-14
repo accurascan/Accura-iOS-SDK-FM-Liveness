@@ -20,6 +20,5 @@ typedef NS_ENUM(int, LivenessType)
 -(void)processedImage:(UIImage*)image;
 -(void)didChangedLivenessType:(LivenessType)faceDirection;
 -(void)getRandomNumber:(NSString*)randomNumber;
--(void)toastMessage:(NSString*)toast;
 
 @end

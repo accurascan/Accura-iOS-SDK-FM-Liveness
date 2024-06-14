@@ -46,7 +46,6 @@ NS_ASSUME_NONNULL_BEGIN
 
 -(void) setFeedBackBlurFaceMessage:(NSString*)feedBackBlurFaceMessage;
 -(void) setFeedBackGlareFaceMessage:(NSString*)feedBackGlareFaceMessage;
--(void) setDefaultText:(NSString*)defaultText;
 
 -(void) setBlurPercentage:(int)blurPercentage;
 

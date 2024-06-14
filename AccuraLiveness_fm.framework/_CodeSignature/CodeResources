@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		1CaKPEJRzjZT5k7q/KkL57HuKk4=
+		lcA+9BG0ytG95QcB0ECAUocdnKY=
 		</data>
 		<key>Headers/AccuraLiveness_fm.h</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Headers/LivenessData.h</key>
 		<data>
-		DwzHldQvPMYK3IwTzwQEfsJ50Ww=
+		9wJTYLhX6UrY/zVtl85BMrGGBHg=
 		</data>
 		<key>Headers/LivenessVC.h</key>
 		<data>
-		LmTjUp0QjT5a/jTG7IYOB5rAVp4=
+		2USdPdbeCqIZl4ZW585B8PFu54Y=
 		</data>
 		<key>Headers/NSFaceRegion.h</key>
 		<data>
@@ -42,15 +42,15 @@
 		</data>
 		<key>Headers/NSObject+Facematch.h</key>
 		<data>
-		kEFjtCYMtwr7uC54F0IvTGRJkWA=
+		WyY384UTP1HSy5Hhtkqkb6Z0j40=
 		</data>
 		<key>Headers/NSObject+Liveness.h</key>
 		<data>
-		YY1xeZPM5qge9DBMG3qo00snLJY=
+		5ve9eZ5Xc0/nt2ngZScGImFMiBs=
 		</data>
 		<key>Headers/NSObject+PostResult.h</key>
 		<data>
-		JnQJqYwBifswk2v7cE0D+L9IeCY=
+		8U1OOjtTCp7IhPmku+Y5QL+3kKY=
 		</data>
 		<key>Headers/NSObject+userDefaults.h</key>
 		<data>
@@ -66,11 +66,11 @@
 		</data>
 		<key>Headers/VideoCameraWrapperDelegate.h</key>
 		<data>
-		CJNbbnSUzutXX9hqII1bD0EOrRQ=
+		2DwPoPh4Rffupr+bRF0JZvs+acA=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ZlhBGuYJqoEmzYxSLJsLiwQJUJw=
+		hvS9rKK6mzuHnJ8IQBvEJgBLZ3k=
 		</data>
 		<key>LICENSE.txt</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		FiFcK5+gBZUkGpuag5fXReNZkB8=
+		7AiOQwPHClw/JUijNAHck8gDbP0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -120,6 +120,10 @@
 		<data>
 		xJYaVUCjvnH9QaJBfCZIXGdaDpU=
 		</data>
+		<key>leftArrow.png</key>
+		<data>
+		/qLhA2YIU/ZIp6df4g9j2q1R4F4=
+		</data>
 		<key>model1.dat</key>
 		<data>
 		3hLGO7CdwyE9Dhv/vJmQ5VS5gLM=
@@ -128,6 +132,14 @@
 		<data>
 		KI/UN33nya2KZ/QVrhqKPo+vgZ0=
 		</data>
+		<key>reg_logo-1.png</key>
+		<data>
+		ucfkiFHL/KGVF8RNE9vpf/JWe54=
+		</data>
+		<key>rightArrow.png</key>
+		<data>
+		bD48J9x1h1nmi45k/1J2rvgYqJ4=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -135,7 +147,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			p0tL80+3A/mUdq0/EEgEXntYd60ANbybkcwzi0HNbnY=
+			L4kxg5ekgPW8kApkRinp3i8OkFjV5gI98IdWG0boPqA=
 			</data>
 		</dict>
 		<key>Headers/AccuraLiveness_fm.h</key>
@@ -177,14 +189,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+mcdllrhEX1UGmHKpieI193hBBN51Lzfn7+qjm2HbI0=
+			5hMSEtlLGibf3r6nd5CnL50xUIj2kJH+OEUlZ6W1HM4=
 			</data>
 		</dict>
 		<key>Headers/LivenessVC.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8Eadczgxb877JJhfWy2s3hhTfFO1JVIB2pWBSx8Soss=
+			wNT30tkb5fTEUKvbcztl3DZtXzSoiT9AOK5jXhXk9c4=
 			</data>
 		</dict>
 		<key>Headers/NSFaceRegion.h</key>
@@ -198,21 +210,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			A5pgxW5+140hX29RwR3DIdhUTjm8fKLSIpwQFRlLxbo=
+			+jBGMXChx53oRLPTJVo2gCUKP6Q4WaWn7VzeFCsK8q0=
 			</data>
 		</dict>
 		<key>Headers/NSObject+Liveness.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			J9FwKUnKg87sm+fbyTYu9YWEUtIy+/WyaSmfC8E0YCw=
+			R2kKw17rAYsyzmx4Lqlxk+8s7mafdTvJ9fJqi8qGKGI=
 			</data>
 		</dict>
 		<key>Headers/NSObject+PostResult.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dBv7kLTo08nR4LbQpTR4Tk4CCH7Zey/lTeGzztb0+fQ=
+			Mjk1+kdm9FuK/b6G+00QQZvgmzgepXicmzaXUOEE7SQ=
 			</data>
 		</dict>
 		<key>Headers/NSObject+userDefaults.h</key>
@@ -240,7 +252,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JE8yeRK9c7ssPOzybUJIX0yNLANLhorAYV3FQ4NqZbA=
+			J6nVvj7nSR5qnu4Q/srjhAz2lUePJGneWxtEu3o2jV8=
 			</data>
 		</dict>
 		<key>LICENSE.txt</key>
@@ -275,7 +287,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jeq8z2j8/yG49ZUOY7PWzJbc/nYfHpfAemX3iHWeiaw=
+			4twoI8tseyv450JgHEEACLaOT27Q4eqDV1Yc/Ge4cGM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -327,6 +339,13 @@
 			s5pKO+RVOdsUan/B0+dhopLBluuIQhGF5qYVswVeYS0=
 			</data>
 		</dict>
+		<key>leftArrow.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZkTgm0pIu+8OE5xPFOS0JWm5lFPBS1PEOzGCq1X+mGo=
+			</data>
+		</dict>
 		<key>model1.dat</key>
 		<dict>
 			<key>hash2</key>
@@ -339,6 +358,20 @@
 			<key>hash2</key>
 			<data>
 			W2r1A1b+3he9yJ+E9Rh+nzJ1SSkg0XePSttx+1e4MOQ=
+			</data>
+		</dict>
+		<key>reg_logo-1.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VoO1vWubiIAQrOz3SQiSR3vxZ9aMrYrs22LJsL3LzuE=
+			</data>
+		</dict>
+		<key>rightArrow.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FOLMYV+SREPAdDhWKClY3MJrTx26s/JkX4bAAIDZjm4=
 			</data>
 		</dict>
 	</dict>
