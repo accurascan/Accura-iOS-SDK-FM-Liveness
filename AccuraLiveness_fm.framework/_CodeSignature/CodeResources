@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		NwvSXDM/IA8dJhmexVr4YiTXJTI=
+		Ru+KG523MTTGM1+WkD6RKcWy2Dk=
 		</data>
 		<key>Headers/AccuraCameraWrapper.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/EngineWrapper.h</key>
 		<data>
-		t1yl4P3+ShlCPYGdWpmIGu7xG+w=
+		HEIBQJUwjEsXeXDtVRVyHwTkdqg=
 		</data>
 		<key>Headers/FaceView.h</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ShCiD2QMN9U9Og3FaElWTvoLlZ0=
+		FdXeiBQEggYP+5kFklm+Ne5IjSw=
 		</data>
 		<key>LICENSE.txt</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		83ZgSXi6FBDlJtMYlX8lxUmNI9Y=
+		ji60c3plJrD+ZZtx8ZUDIlK0TyY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -123,7 +123,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PVck5jnWbUBll6oOUZvEdKUT/lpYfSTvJZlmZo5v+4M=
+			HB6sMSK0pg5IC+Spp31AhvIabOjBLjSqTvrvYSLxAFc=
 			</data>
 		</dict>
 		<key>Headers/AccuraCameraWrapper.h</key>
@@ -144,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HvobC/qDnb4QwrOOEGZSNGtm3d/VFKsaF65uYx7Jdjg=
+			p0H5F0jU80sisu+6ob9e4fzt1LyZKr88qsaSWJ11O5E=
 			</data>
 		</dict>
 		<key>Headers/FaceView.h</key>
@@ -263,7 +263,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pWM2PYuuaLY3OxMUhu0B7Uy2CM6sVYThCTLpTSTMBQI=
+			nzeOv/Vwuz5mtusltff41IFMlpTaj9rE2MFIeh4MTV4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

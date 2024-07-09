@@ -13,6 +13,7 @@
 @interface EngineWrapper : NSObject
 
 +(void) FaceEngineInit;
++(void) FaceEngineInit:(NSString *)licensePath;
 +(BOOL) IsEngineInit;
 +(int) GetEngineInitValue;
 +(void) FaceEngineClose;
