@@ -4,3 +4,8 @@ framework module AccuraLiveness_fm {
 
   module * { export * }
 }
+
+module AccuraLiveness_fm.Swift {
+  header "AccuraLiveness_fm-Swift.h"
+  requires objc
+}
