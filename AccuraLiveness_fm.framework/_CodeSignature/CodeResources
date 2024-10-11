@@ -98,11 +98,11 @@
 		</data>
 		<key>Modules/AccuraLiveness_fm.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		OsZfpG+iUtCseuYWY9P8+7+Ziys=
+		kFp51QJOjeAQ1b/7eXDwJPvutZI=
 		</data>
 		<key>Modules/AccuraLiveness_fm.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		Lr4Sguij8l4IjRdYzEwaynF36mk=
+		g2B2FqgUHKuhWLLmwvjdY5TwHi4=
 		</data>
 		<key>Modules/AccuraLiveness_fm.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>Modules/AccuraLiveness_fm.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		u56MAJP+c13OMV/mb38P3a53NFA=
+		0nmjaOa8xpP2cnfgnQKc5bTf5gk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -305,14 +305,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/xDyHBu8mwutAlRVjEMPL7pkQ7K2RbWHPpwskct3MJM=
+			0EZ1jX+R+Lkf+pGGVE34inA4ypZ9vviLtgbgy9Q9Hlg=
 			</data>
 		</dict>
 		<key>Modules/AccuraLiveness_fm.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sZhdtjOFJgnnP94qAHDU9LzVLEXRTFp1u/168MErpgM=
+			jyL6riSJwYwlpngUIDKJ5iEFjb3LvVlFFIGiDNs8xtc=
 			</data>
 		</dict>
 		<key>Modules/AccuraLiveness_fm.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -340,7 +340,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4leOS25X9d8XyJshf2ksfOj1ijw1x30UfMtcvMd2a+0=
+			kxs7/aI+IgSrWbQeSZW5oWukOnSGoXkjCltWxUlWPWY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
