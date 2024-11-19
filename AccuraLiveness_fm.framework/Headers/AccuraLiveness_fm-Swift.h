@@ -310,6 +310,7 @@ SWIFT_CLASS("_TtC17AccuraLiveness_fm10Encryption")
 @interface Encryption : NSObject
 - (NSData * _Nullable)aesEncryptWithData:(NSData * _Nonnull)data keyData:(NSData * _Nonnull)keyData ivData:(NSData * _Nonnull)ivData SWIFT_WARN_UNUSED_RESULT;
 - (NSData * _Nullable)encryptImageWithImage:(UIImage * _Nonnull)image key:(NSString * _Nonnull)key iv:(NSString * _Nonnull)iv SWIFT_WARN_UNUSED_RESULT;
+- (NSData * _Nullable)updateExifAttributesAndReturnDataOf:(UIImage * _Nonnull)originalImageData SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 

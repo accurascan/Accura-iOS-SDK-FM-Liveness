@@ -125,6 +125,44 @@
           },
           {
             "kind": "Function",
+            "name": "updateExifAttributesAndReturnData",
+            "printedName": "updateExifAttributesAndReturnData(of:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Data?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Data",
+                    "printedName": "Foundation.Data",
+                    "usr": "s:10Foundation4DataV"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@AccuraLiveness_fm@objc(cs)Encryption(im)updateExifAttributesAndReturnDataOf:",
+            "mangledName": "$s17AccuraLiveness_fm10EncryptionC33updateExifAttributesAndReturnData2of10Foundation0J0VSgSo7UIImageC_tF",
+            "moduleName": "AccuraLiveness_fm",
+            "isOpen": true,
+            "objc_name": "updateExifAttributesAndReturnDataOf:",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "saveLogToFile",
             "printedName": "saveLogToFile(_:)",
             "children": [
