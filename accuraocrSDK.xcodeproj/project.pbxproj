@@ -3,18 +3,18 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 54;
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A3C83B232629656500689663 /* AccuraLiveness.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A3C83B222629656500689663 /* AccuraLiveness.framework */; };
+		18D2215C2CEC51A0009DCD07 /* AccuraLiveness_fm.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 18D2215B2CEC51A0009DCD07 /* AccuraLiveness_fm.xcframework */; };
 		A3CC7FB024A45E520046694A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3CC7FAE24A45E520046694A /* Main.storyboard */; };
 		A3CC7FB224A45E530046694A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3CC7FB124A45E530046694A /* Assets.xcassets */; };
 		A3CC7FB524A45E530046694A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3CC7FB324A45E530046694A /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A3C83B222629656500689663 /* AccuraLiveness.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AccuraLiveness.framework; sourceTree = SOURCE_ROOT; };
+		18D2215B2CEC51A0009DCD07 /* AccuraLiveness_fm.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = AccuraLiveness_fm.xcframework; sourceTree = "<group>"; };
 		A3CC7FA524A45E520046694A /* accuraocrSDK.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = accuraocrSDK.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3CC7FAF24A45E520046694A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A3CC7FB124A45E530046694A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -27,7 +27,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A3C83B232629656500689663 /* AccuraLiveness.framework in Frameworks */,
+				18D2215C2CEC51A0009DCD07 /* AccuraLiveness_fm.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -53,7 +53,7 @@
 		A3CC7FA724A45E520046694A /* accuraocrSDK */ = {
 			isa = PBXGroup;
 			children = (
-				A3C83B222629656500689663 /* AccuraLiveness.framework */,
+				18D2215B2CEC51A0009DCD07 /* AccuraLiveness_fm.xcframework */,
 				A3CC7FAE24A45E520046694A /* Main.storyboard */,
 				A3CC7FB124A45E530046694A /* Assets.xcassets */,
 				A3CC7FB324A45E530046694A /* LaunchScreen.storyboard */,
