@@ -841,6 +841,58 @@
                 "accessorKind": "get"
               }
             ]
+          },
+          {
+            "kind": "Var",
+            "name": "icnMic",
+            "printedName": "icnMic",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImageResource",
+                "printedName": "AccuraLiveness_fm.ImageResource",
+                "usr": "s:17AccuraLiveness_fm13ImageResourceV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:17AccuraLiveness_fm13ImageResourceV6icnMicACvpZ",
+            "mangledName": "$s17AccuraLiveness_fm13ImageResourceV6icnMicACvpZ",
+            "moduleName": "AccuraLiveness_fm",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImageResource",
+                    "printedName": "AccuraLiveness_fm.ImageResource",
+                    "usr": "s:17AccuraLiveness_fm13ImageResourceV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:17AccuraLiveness_fm13ImageResourceV6icnMicACvgZ",
+                "mangledName": "$s17AccuraLiveness_fm13ImageResourceV6icnMicACvgZ",
+                "moduleName": "AccuraLiveness_fm",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
           }
         ],
         "declKind": "Struct",
@@ -1471,18 +1523,25 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraLiveness_fm-ffiwfbmjpxnfrbaxstqwxrfzkixw\/Build\/Intermediates.noindex\/AccuraLiveness_fm.build\/Debug-iphoneos\/AccuraLiveness_fm.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraLiveness_fm-airopasnesmhxngpudpobhzhnjsd\/Build\/Intermediates.noindex\/AccuraLiveness_fm.build\/Debug-iphoneos\/AccuraLiveness_fm.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 741,
       "length": 16,
       "value": "\"accuraScanLogo\""
     },
     {
-      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraLiveness_fm-ffiwfbmjpxnfrbaxstqwxrfzkixw\/Build\/Intermediates.noindex\/AccuraLiveness_fm.build\/Debug-iphoneos\/AccuraLiveness_fm.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraLiveness_fm-airopasnesmhxngpudpobhzhnjsd\/Build\/Intermediates.noindex\/AccuraLiveness_fm.build\/Debug-iphoneos\/AccuraLiveness_fm.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 884,
       "length": 11,
       "value": "\"icn_close\""
+    },
+    {
+      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraLiveness_fm-airopasnesmhxngpudpobhzhnjsd\/Build\/Intermediates.noindex\/AccuraLiveness_fm.build\/Debug-iphoneos\/AccuraLiveness_fm.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1018,
+      "length": 9,
+      "value": "\"icn_mic\""
     }
   ]
 }

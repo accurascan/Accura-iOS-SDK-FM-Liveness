@@ -10,6 +10,7 @@
 #import <UIKit/UIKit.h>
 #import "LivenessVC.h"
 #import "NSObject+userDefaults.h"
+#import "VideoCameraWrapperDelegate.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
@@ -40,8 +41,6 @@ NS_ASSUME_NONNULL_BEGIN
 
 -(void) setLivenessURL:(NSString*)livenessURL;
 
--(void) setApiKey:(NSString*)setApiKey;
-
 -(void) setFeedbackMultipleFaceMessage:(NSString*)feedBackMultipleFaceMessage;
 
 -(void) setFeedBackFaceSteadymessage:(NSString*)feedBackFaceSteadymessage;
@@ -50,16 +49,38 @@ NS_ASSUME_NONNULL_BEGIN
 
 -(void) setFeedBackBlurFaceMessage:(NSString*)feedBackBlurFaceMessage;
 -(void) setFeedBackGlareFaceMessage:(NSString*)feedBackGlareFaceMessage;
+-(void) setFeedBackOralInfoMessage:(NSString*)feedBackOralInfoMessage;
+//-(void) setfeedBackVideoRecordingMessage:(NSString*)feedBackRecordingMessage;
 
 -(void) setBlurPercentage:(int)blurPercentage;
 
 -(void) setGlarePercentage:(int) glaremin :(int) glareMax;
--(void)evaluateServerTrustWIthSSLPinning:(bool)isServerTrust;
+
+//-(void)setVideoLengthInSecond:(int)videoLength;
+-(void)saveImageinDocumentDirectory:(bool)isSaveImage;
+
+-(void)setFeedBackProcessingMessage:(NSString *)feedBackProcessingMessage;
+
+-(void)setFeedBackLookRightMessage:(NSString*)feedBackLookRightMessage;
+-(void) setLowLightThreshHold:(int)lowLightThreshHold;
+-(void) setFeedBackLookLeftMessage:(NSString*)feedBackLookLeftMessage;
+-(void) setFeedBackFaceInsideOvalMessage:(NSString*)FaceInsideOvalMessage;
+-(void)GIFImageNameForRightMoveFaceAnimation:(NSString*)rightMoveGIFName;
+-(void)GIFImageNameForLeftMoveFaceAnimation:(NSString*)leftMoveGIFName;
+-(void)isShowLogo:(bool)isShowLogo;
+-(void)setLogoImage:(NSString*)LogoImageName;
+-(void)enableOralVerification:(bool)isOralVerification;
+-(void)setButtonStartRecordingIcon:(NSString*)imageName;
+-(void)setCodeTextColor:(NSString*)codeTextColor;
+//-(void)setContentType:(ContentType)contentType;
+-(void)GIFImageNameForVerifiedAnimation:(NSString*)VerifiedAnimation;
+-(void) setApiMethod:(NSString*)setApiMethod;
+-(void) setApiKey:(NSString*)setApiKey;
 -(void) setDefaultText:(NSString*)defaultText;
 -(void) hideLogo:(bool)isLogoHidden;
 -(void)hideAlert:(bool)isAlertHidden;
 - (void)setAlertText:(NSString *)alertText;
-//-(void) configure;
+- (void)enableFaceMovement:(bool)enableFaceMovement;
 
 @end
 
