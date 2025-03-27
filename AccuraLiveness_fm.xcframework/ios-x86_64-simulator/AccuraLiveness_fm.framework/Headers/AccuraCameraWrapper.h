@@ -17,6 +17,8 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 #import "VideoCameraWrapperDelegate.h"
+#import <Speech/Speech.h>
+#import <Speech/SFSpeechRecognizer.h>
 //#import "MLKit.h"
 
 
@@ -28,15 +30,20 @@
 
 {
     BOOL Capturing;
+    LivenessType Liveness_Type;
 
 //    SDKModel sdkm;
 }
 
 
 @property (nonatomic, strong) id<LivenessVideoCameraWrapperDelegate> delegate;
+@property (nonatomic) SFSpeechRecognizer *speechRecognizer;
+@property (nonatomic) SFSpeechAudioBufferRecognitionRequest *recognitionRequest;
+@property (nonatomic) SFSpeechRecognitionTask *recognitionTask;
+@property (nonatomic) AVAudioEngine *audioEngine;
+@property (nonatomic) AVAudioInputNode *inputNode;
 
-
--(id)initWithDelegate:(UIViewController<LivenessVideoCameraWrapperDelegate>*)delegate andMsgLabel:(UILabel*)l andfeedBackframeMessage:(NSString*)feedBackframeMessage andfeedBackAwayMessage:(NSString*)feedBackAwayMessage andfeedBackOpenEyesMessage:(NSString*)feedBackOpenEyesMessage andfeedBackCloserMessage:(NSString*)feedBackCloserMessage andfeedBackCenterMessage:(NSString*)feedBackCenterMessage andfeedBackMultipleFaceMessage:(NSString*)feedBackMultipleFaceMessage andfeedBackFaceSteady:(NSString*)feedBackFaceSteady andfeedBackLowLightMessage:(NSString*)feedBackLowLightMessage andfeedBackBlurFaceMessage:(NSString*)feedBackBlurFaceMessage andfeedBackGlareFaceMessage:(NSString*)feedBackGlareFaceMessage;
+-(id)initWithDelegate:(UIViewController<LivenessVideoCameraWrapperDelegate>*)delegate andImageView:(UIImageView *)iv andMsgLabel:(UILabel*)l andfeedBackframeMessage:(NSString*)feedBackframeMessage andfeedBackAwayMessage:(NSString*)feedBackAwayMessage andfeedBackOpenEyesMessage:(NSString*)feedBackOpenEyesMessage andfeedBackCloserMessage:(NSString*)feedBackCloserMessage andfeedBackCenterMessage:(NSString*)feedBackCenterMessage andfeedBackMultipleFaceMessage:(NSString*)feedBackMultipleFaceMessage andfeedBackFaceSteady:(NSString*)feedBackFaceSteady andfeedBackLowLightMessage:(NSString*)feedBackLowLightMessage andfeedBackBlurFaceMessage:(NSString*)feedBackBlurFaceMessage andfeedBackGlareFaceMessage:(NSString*)feedBackGlareFaceMessage andfeedBackVideoRecordingMessage:(NSString*)feedBackVideoRecordingMessage andcheckLivess:(bool)checkLivenss labelLvienessProcess:(UILabel*)lbllivenessProcess recordingMessage:(NSString*)recordingMessage labelRecordingMSG:(UILabel*)labelRecordingMSG feedbackFMFailMessage:(NSString *)feedBackFMFailMessage andfeedBackLookLeftMessage:(NSString *)feedBackLookLeftMessage andfeedBackLookRightMessage:(NSString *)feedBackLookRightMessage andFaceInsideOvalMessage:(NSString *)FaceInsideOvalMessage andfeedBackOralInfoMessage:(NSString*)feedBackOralInfoMessage andfeedBackProcessingMessage:(NSString*)feedBackProcessingMessage;
 
 -(void)startCamera;
 -(void)stopCamera;
@@ -45,7 +52,8 @@
 -(void)setLivenessBlurPercentage:(int)blur;
 -(void)openFrontCamera:(int )isFrontSide;
 - (void)accuraLivenessSDK;
-
+-(void)startRecording;
+-(void)stopRecording1;
 
 
 @end
