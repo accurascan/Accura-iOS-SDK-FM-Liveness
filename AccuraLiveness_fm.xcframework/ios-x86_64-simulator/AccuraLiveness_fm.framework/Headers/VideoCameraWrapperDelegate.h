@@ -18,7 +18,7 @@ typedef NS_ENUM(int, LivenessType)
 @optional
 -(void)didChangedLivenessType:(LivenessType)faceDirection;
 -(void)livenessData:(UIImage*)livenessImage andshowImage:(UIImage*)showImage;
--(void)livenessData:(UIImage*)livenessImage andshowImage:(UIImage*)showImage imagePath:(NSString*)imagePath;
+-(void)livenessData:(UIImage*)livenessImage andshowImage:(UIImage*)showImage imagePath:(NSString*)imagePath imageInjected:(BOOL)imageInjected;
 -(void)getRandomNumber:(NSString*)randomNumber;
 -(void)processedImage:(UIImage*)image;
 -(void)titleMessage:(NSString *)message;

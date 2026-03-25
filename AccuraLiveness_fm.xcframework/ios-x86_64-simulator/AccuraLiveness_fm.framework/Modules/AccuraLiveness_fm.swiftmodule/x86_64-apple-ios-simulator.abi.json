@@ -549,6 +549,13 @@
             "printedName": "Equatable",
             "usr": "s:SQ",
             "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           }
         ]
       },
@@ -937,6 +944,13 @@
             "printedName": "Equatable",
             "usr": "s:SQ",
             "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           }
         ]
       },
@@ -1065,6 +1079,13 @@
             "printedName": "CustomDebugStringConvertible",
             "usr": "s:s28CustomDebugStringConvertibleP",
             "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           },
           {
             "kind": "Conformance",
@@ -1203,6 +1224,13 @@
           },
           {
             "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          },
+          {
+            "kind": "Conformance",
             "name": "_ExpressibleByImageLiteral",
             "printedName": "_ExpressibleByImageLiteral",
             "usr": "s:s26_ExpressibleByImageLiteralP",
@@ -1292,6 +1320,13 @@
             "printedName": "Equatable",
             "usr": "s:SQ",
             "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           },
           {
             "kind": "Conformance",
@@ -1453,6 +1488,13 @@
           },
           {
             "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Copyable",
             "printedName": "Copyable",
             "usr": "s:s8CopyableP",
@@ -1523,21 +1565,21 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraLiveness_fm-ffiwfbmjpxnfrbaxstqwxrfzkixw\/Build\/Intermediates.noindex\/AccuraLiveness_fm.build\/Debug-iphonesimulator\/AccuraLiveness_fm.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/accura\/Library\/Developer\/Xcode\/DerivedData\/AccuraLiveness_fm-fyqixbjdxtqjvshhmbbjimffbpnw\/Build\/Intermediates.noindex\/AccuraLiveness_fm.build\/Debug-iphonesimulator\/AccuraLiveness_fm.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 741,
       "length": 16,
       "value": "\"accuraScanLogo\""
     },
     {
-      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraLiveness_fm-ffiwfbmjpxnfrbaxstqwxrfzkixw\/Build\/Intermediates.noindex\/AccuraLiveness_fm.build\/Debug-iphonesimulator\/AccuraLiveness_fm.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/accura\/Library\/Developer\/Xcode\/DerivedData\/AccuraLiveness_fm-fyqixbjdxtqjvshhmbbjimffbpnw\/Build\/Intermediates.noindex\/AccuraLiveness_fm.build\/Debug-iphonesimulator\/AccuraLiveness_fm.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 884,
       "length": 11,
       "value": "\"icn_close\""
     },
     {
-      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/AccuraLiveness_fm-ffiwfbmjpxnfrbaxstqwxrfzkixw\/Build\/Intermediates.noindex\/AccuraLiveness_fm.build\/Debug-iphonesimulator\/AccuraLiveness_fm.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/accura\/Library\/Developer\/Xcode\/DerivedData\/AccuraLiveness_fm-fyqixbjdxtqjvshhmbbjimffbpnw\/Build\/Intermediates.noindex\/AccuraLiveness_fm.build\/Debug-iphonesimulator\/AccuraLiveness_fm.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1018,
       "length": 9,

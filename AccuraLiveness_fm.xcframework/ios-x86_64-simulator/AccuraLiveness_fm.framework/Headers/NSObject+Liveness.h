@@ -29,6 +29,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 -(void) setFeedbackTextSize:(float)feedbackTextSize;
 
+-(void) setFeedbackTextCustomFont:(NSString*)feedbackTextCustomFont;
+-(void) setFeedbackShadowVisible:(bool)feedbackShadow;
 -(void) setFeedBackframeMessage:(NSString*)feedBackframeMessage;
 
 -(void) setFeedBackAwayMessage:(NSString*)feedBackAwayMessage;
@@ -69,14 +71,19 @@ NS_ASSUME_NONNULL_BEGIN
 -(void)GIFImageNameForLeftMoveFaceAnimation:(NSString*)leftMoveGIFName;
 -(void)isShowLogo:(bool)isShowLogo;
 -(void)setLogoImage:(NSString*)LogoImageName;
+-(void)setBackLogoImage:(NSString*)setBackLogoImage;
+-(void)setBackLogoOnLeftSide:(bool)setBackLogoOnLeftSide;
 -(void)enableOralVerification:(bool)isOralVerification;
 -(void)setButtonStartRecordingIcon:(NSString*)imageName;
 -(void)setCodeTextColor:(NSString*)codeTextColor;
+-(void)setBorderColor:(NSString*)borderColor;
 //-(void)setContentType:(ContentType)contentType;
 -(void)GIFImageNameForVerifiedAnimation:(NSString*)VerifiedAnimation;
 -(void) setApiMethod:(NSString*)setApiMethod;
 -(void) setApiKey:(NSString*)setApiKey;
 -(void) setDefaultText:(NSString*)defaultText;
+-(void) setDefaultTextSize:(float)defaultTextSize;
+-(void) setDefaultTextCustomFont:(NSString*)defaultTextCustomFont;
 -(void) hideLogo:(bool)isLogoHidden;
 -(void)hideAlert:(bool)isAlertHidden;
 - (void)setAlertText:(NSString *)alertText;
