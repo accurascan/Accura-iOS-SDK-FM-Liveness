@@ -42,7 +42,7 @@
 		</data>
 		<key>Headers/LivenessVC.h</key>
 		<data>
-		Oeo7uqTeQY1V1KumDw1B+bHUF9c=
+		KPGlHLfU9ID2q5rc3/ydBbhMgOU=
 		</data>
 		<key>Headers/NSFaceRegion.h</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Headers/NSObject+Liveness.h</key>
 		<data>
-		GiJs4AmuvsTnzAceqGgihZdf+hs=
+		/M0kx4jCaLM46I96SHjC+F5toQY=
 		</data>
 		<key>Headers/NSObject+PostResult.h</key>
 		<data>
@@ -94,11 +94,11 @@
 		</data>
 		<key>Liveness.storyboardc/wSF-fk-bxa-view-gWT-Kc-Pnq.nib</key>
 		<data>
-		cxH6wA+/v+BmrhfzUBROTAtSjR0=
+		u4Rkr0rc/WeM/zXeRbhm0SalPxo=
 		</data>
 		<key>Modules/AccuraLiveness_fm.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		gcjG4lekqDO87QgszYp2FQS7TjQ=
+		bCmm80v+jeHr2Nm+byFrmePVmZw=
 		</data>
 		<key>Modules/AccuraLiveness_fm.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -238,7 +238,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BjI4uTT5owD1NdisHHfuxpg7PfLZJhaBsI7Jr+TS6g8=
+			VFPM5DiwklmKiWvhj+RKD0gVZIwYKhJGXXp2uD6tWvo=
 			</data>
 		</dict>
 		<key>Headers/NSFaceRegion.h</key>
@@ -259,7 +259,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CgZxJ5B1AlghtJYvhR6HBiRV3NFL9O1P+T2h5uZBRqA=
+			2SvwBlqt6/G8UPC/DBvaUhNm+Cc9cU7heTzVj7DlXYo=
 			</data>
 		</dict>
 		<key>Headers/NSObject+PostResult.h</key>
@@ -322,14 +322,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HZNWHXWt0muUmfxI+3yFIsx+Ejl3EZXGisKlTNKlMsY=
+			IHEoZHMlsdvbQD7SOaWCANF/F5iaEG2z5cBujXnSBYQ=
 			</data>
 		</dict>
 		<key>Modules/AccuraLiveness_fm.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sdYrPbMxBDIoF8Fca72kwrTGFfDEpp1PP54GR2FVQfg=
+			JmJPRLRvJ1qXprTIbFqzrJwLl9Z3yiczyWlhwOqhsPE=
 			</data>
 		</dict>
 		<key>Modules/AccuraLiveness_fm.swiftmodule/arm64-apple-ios.abi.json</key>
