@@ -7,5 +7,4 @@ framework module AccuraLiveness_fm {
 
 module AccuraLiveness_fm.Swift {
   header "AccuraLiveness_fm-Swift.h"
-  requires objc
 }

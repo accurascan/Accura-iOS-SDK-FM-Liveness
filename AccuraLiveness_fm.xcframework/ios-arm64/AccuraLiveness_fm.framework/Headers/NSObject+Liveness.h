@@ -73,7 +73,7 @@ NS_ASSUME_NONNULL_BEGIN
 -(void)setLogoImage:(NSString*)LogoImageName;
 -(void)setBackLogoImage:(NSString*)setBackLogoImage;
 -(void)setBackLogoOnLeftSide:(bool)setBackLogoOnLeftSide;
--(void)enableOralVerification:(bool)isOralVerification;
+//-(void)enableOralVerification:(bool)isOralVerification;
 -(void)setButtonStartRecordingIcon:(NSString*)imageName;
 -(void)setCodeTextColor:(NSString*)codeTextColor;
 -(void)setBorderColor:(NSString*)borderColor;
@@ -87,7 +87,7 @@ NS_ASSUME_NONNULL_BEGIN
 -(void) hideLogo:(bool)isLogoHidden;
 -(void)hideAlert:(bool)isAlertHidden;
 - (void)setAlertText:(NSString *)alertText;
-- (void)enableFaceMovement:(bool)enableFaceMovement;
+//- (void)enableFaceMovement:(bool)enableFaceMovement;
 
 @end
 
