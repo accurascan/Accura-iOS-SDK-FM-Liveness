@@ -77,6 +77,7 @@ NS_ASSUME_NONNULL_BEGIN
 -(void)setButtonStartRecordingIcon:(NSString*)imageName;
 -(void)setCodeTextColor:(NSString*)codeTextColor;
 -(void)setBorderColor:(NSString*)borderColor;
+-(void)setBottomConstraintText:(int)bottomConstraintText;
 //-(void)setContentType:(ContentType)contentType;
 -(void)GIFImageNameForVerifiedAnimation:(NSString*)VerifiedAnimation;
 -(void) setApiMethod:(NSString*)setApiMethod;

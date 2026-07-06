@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		lqHAoG3J70kPVD8ube65MZyREhE=
+		fwmooE00PnFNpZClcLgx2nK6HVE=
 		</data>
 		<key>Headers/AccuraCameraWrapper.h</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Headers/LivenessData.h</key>
 		<data>
-		giNKxbDlbSk3saw9t9lEnAQCfMw=
+		zYL2JD5grb+vc6vkHtOrCf7OJCA=
 		</data>
 		<key>Headers/LivenessVC.h</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Headers/NSObject+Liveness.h</key>
 		<data>
-		IAx0XHxdU3HuJuyJnHIpaAzd/X4=
+		dEagDOkQICAT7Hym98h2MvYeZy0=
 		</data>
 		<key>Headers/NSObject+PostResult.h</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>Modules/AccuraLiveness_fm.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		5wwFBOHXA0TM8evvnE8c/0+i0qU=
+		AwMpfLYvPQgHfxFPU38P5twuGsc=
 		</data>
 		<key>Modules/AccuraLiveness_fm.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -175,7 +175,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GhFza3u+fEd+pB/Fv8+Ard/MJl6xPvTgHWEKmLTHHIc=
+			8EALTaDs6PorRIsTrxfg4yeYwJtyMAnCcY50c8uVr7w=
 			</data>
 		</dict>
 		<key>Headers/AccuraCameraWrapper.h</key>
@@ -231,7 +231,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ilm3HA0zVuya1yUiOCujI1UpproFtY/yZe+tsnicH7c=
+			VCLjTWhqt5v6FPSc/DWGo623nGQ3tRkHhsqjj2QKRdA=
 			</data>
 		</dict>
 		<key>Headers/LivenessVC.h</key>
@@ -259,7 +259,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZilHM+v1wRdRpZ4KP6vXg7+7Kdemt/bveTrgHmi0JOs=
+			gvYIypefo+ptegCuAo1+Rh1bQPBtSSVuAg5O3WHe4tE=
 			</data>
 		</dict>
 		<key>Headers/NSObject+PostResult.h</key>
@@ -329,7 +329,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cPbvVeQv5J9uDp+PlU1aryyZ8kpsbe8cERjQUdoz4KI=
+			q5zh84f1HNXoBqX81QCPJf9qsNWtIT4sQIeYRqXtuWM=
 			</data>
 		</dict>
 		<key>Modules/AccuraLiveness_fm.swiftmodule/arm64-apple-ios.abi.json</key>
