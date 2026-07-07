@@ -90,6 +90,9 @@ NS_ASSUME_NONNULL_BEGIN
 - (void)setAlertText:(NSString *)alertText;
 //- (void)enableFaceMovement:(bool)enableFaceMovement;
 -(void)setFeedbackTextFlicker:(bool)isFlicker;
+//-(void)setBackLogoLeftPositionWithLeft:(CGFloat)left top:(CGFloat)top;
+//-(void)setBackLogoRightPositionWithRight:(CGFloat)right top:(CGFloat)top;
+-(void)setBackLogoSizeWithWidth:(CGFloat)width height:(CGFloat)height;
 
 @end
 
