@@ -89,6 +89,7 @@ NS_ASSUME_NONNULL_BEGIN
 -(void)hideAlert:(bool)isAlertHidden;
 - (void)setAlertText:(NSString *)alertText;
 //- (void)enableFaceMovement:(bool)enableFaceMovement;
+-(void)setFeedbackTextFlicker:(bool)isFlicker;
 
 @end
 
