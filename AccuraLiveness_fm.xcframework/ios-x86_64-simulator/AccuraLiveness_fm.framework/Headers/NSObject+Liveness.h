@@ -93,7 +93,7 @@ NS_ASSUME_NONNULL_BEGIN
 //-(void)setBackLogoLeftPositionWithLeft:(CGFloat)left top:(CGFloat)top;
 //-(void)setBackLogoRightPositionWithRight:(CGFloat)right top:(CGFloat)top;
 -(void)setBackLogoSizeWithWidth:(CGFloat)width height:(CGFloat)height;
-
+-(void) setProcessDelay:(float)processDelay;
 @end
 
 NS_ASSUME_NONNULL_END
