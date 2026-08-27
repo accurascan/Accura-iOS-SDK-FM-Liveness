@@ -95,6 +95,7 @@ NS_ASSUME_NONNULL_BEGIN
 //-(void)setBackLogoRightPositionWithRight:(CGFloat)right top:(CGFloat)top;
 -(void)setBackLogoSizeWithWidth:(CGFloat)width height:(CGFloat)height;
 -(void) setProcessDelay:(float)processDelay;
+-(void)setGIFImageSizeWithWidth:(CGFloat)width height:(CGFloat)height;
 @end
 
 NS_ASSUME_NONNULL_END
