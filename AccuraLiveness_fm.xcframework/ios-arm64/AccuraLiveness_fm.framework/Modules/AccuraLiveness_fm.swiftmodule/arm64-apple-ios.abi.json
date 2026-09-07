@@ -851,6 +851,58 @@
           },
           {
             "kind": "Var",
+            "name": "icnClose1",
+            "printedName": "icnClose1",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImageResource",
+                "printedName": "AccuraLiveness_fm.ImageResource",
+                "usr": "s:17AccuraLiveness_fm13ImageResourceV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:17AccuraLiveness_fm13ImageResourceV9icnClose1ACvpZ",
+            "mangledName": "$s17AccuraLiveness_fm13ImageResourceV9icnClose1ACvpZ",
+            "moduleName": "AccuraLiveness_fm",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImageResource",
+                    "printedName": "AccuraLiveness_fm.ImageResource",
+                    "usr": "s:17AccuraLiveness_fm13ImageResourceV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:17AccuraLiveness_fm13ImageResourceV9icnClose1ACvgZ",
+                "mangledName": "$s17AccuraLiveness_fm13ImageResourceV9icnClose1ACvgZ",
+                "moduleName": "AccuraLiveness_fm",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "icnMic",
             "printedName": "icnMic",
             "children": [
@@ -1581,7 +1633,14 @@
     {
       "filePath": "\/Users\/accura\/Library\/Developer\/Xcode\/DerivedData\/AccuraLiveness_fm-gqvmrmercfqhtsfoxbrstqlpfdev\/Build\/Intermediates.noindex\/AccuraLiveness_fm.build\/Debug-iphoneos\/AccuraLiveness_fm.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1018,
+      "offset": 1024,
+      "length": 12,
+      "value": "\"icn_close1\""
+    },
+    {
+      "filePath": "\/Users\/accura\/Library\/Developer\/Xcode\/DerivedData\/AccuraLiveness_fm-gqvmrmercfqhtsfoxbrstqlpfdev\/Build\/Intermediates.noindex\/AccuraLiveness_fm.build\/Debug-iphoneos\/AccuraLiveness_fm.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1159,
       "length": 9,
       "value": "\"icn_mic\""
     }
