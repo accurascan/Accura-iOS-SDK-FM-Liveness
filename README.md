@@ -11,7 +11,7 @@ Face match + liveness SDK from AccuraScan, packaged for Swift Package Manager.
 Xcode → File → Add Package Dependencies… →
 
 ```
-https://github.com/saeed-mohammad/FM_SPM.git
+https://github.com/accurascan/Accura-iOS-SDK-FM-Liveness.git
 ```
 
 Choose **Up to Next Major Version** from `0.0.1` and add the `AccuraLiveness_fm` product to your app target.
@@ -19,7 +19,7 @@ Choose **Up to Next Major Version** from `0.0.1` and add the `AccuraLiveness_fm`
 Or in `Package.swift`:
 
 ```swift
-.package(url: "https://github.com/saeed-mohammad/FM_SPM.git", from: "0.0.1")
+.package(url: "https://github.com/accurascan/Accura-iOS-SDK-FM-Liveness.git", from: "1.0.0")
 ```
 
 ```swift
